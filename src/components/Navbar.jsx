@@ -17,7 +17,6 @@ const Navbar = () => {
 
     }
 
-
     return (
         <nav id='navbar'>
             <h2>
