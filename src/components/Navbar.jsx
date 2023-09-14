@@ -14,7 +14,6 @@ const Navbar = () => {
 
         navigate(`/search?q=${search}`);
         setSearch('');
-
     }
 
     return (
@@ -30,7 +29,6 @@ const Navbar = () => {
                     <BiSearchAlt2 />
                 </button>
             </form>
-
         </nav>
     )
 }
